@@ -1,23 +1,40 @@
 # Portfolio
 
 ## About Me
-- Passionate software tester with a background in [Your Field/Area].
-- [Brief Introduction about Yourself]
+I am an IT enthusiast with strong communication skills, adept at teamwork, and well-organized. My experience includes successfully releasing The Wizards game series across various platforms. As a detail-oriented and diligent individual, I focus on excellence in every aspect of my work. Currently, I am expanding my skills in the field of QA and actively seeking new challenges in the IT industry. I am ready and willing to contribute to projects that demand precision and professionalism.
+
+Outside the IT world, I am involved in an amateur Wind Orchestra at the Volunteer Fire Department in Polanka Wielka, where I serve as a percussionist. This experience teaches me collaboration, harmony, and a passion for music.
+
+Respect for colleagues is paramount in my professional life. I am exploring new opportunities in the QA field and am eager to collaborate with a team that values professionalism and mutual respect.
 
 ## Tools
-- [Tool 1]
-- [Tool 2]
-- [Tool 3]
+- Jira, Trello
+- [Postman](https://www.postman.com/)
+- Github
+- Testrail , Qase
+- Bug Magnet - Exploratory testing assistant for Chrome and Firefox
+- Exploratory Testing Chrome
+- Mouse Recorder - mouse and keyboard recording macro
+- ShareX, OBS
 
 ## Tech Skills
-- Programming Languages: [Languages]
-- Testing Frameworks: [Frameworks]
-- [Any other relevant tech skills]
+- Preparing test scenarios
+- Bug reports
+- Jira/Confluence
+- SQL
+- GIT/SVN
+- Postman
+- Unreal Engine 4/5
+- Blueprints
+- Creating diagrams and decision tables
 
 ## Soft Skills
-- Effective Communication
-- Team Collaboration
-- Problem Solving
+- Communicative
+- Cooperative
+- Attentive
+- Autonomous
+- Eager to learn
+
 
 ## Certificates
 - [Certificate 1]
