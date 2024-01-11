@@ -37,13 +37,11 @@ Respect for colleagues is paramount in my professional life. I am exploring new 
 
 
 ## Certificates
-- [Certificate 1]
-- [Certificate 2]
-- [Certificate 3]
+- [Game designer SKVOT](https://github.com/Zajcyk/QA_Portfolio/blob/main/Certificates/Przemys%C5%82aw-Ziaja_Game-Designer_2023-01-18_skvot%20ENG.pdf) -  [Supplement](https://github.com/Zajcyk/QA_Portfolio/blob/main/Certificates/Przemys%C5%82aw%20Ziaja%20ENG.png)
 
 ## Courses
-- [Course 1]
-- [Course 2]
+- [Manual Teser GoIT]
+- [Game designer SKVOT]
 - [Course 3]
 
 ## Groups for Knowledge Gathering/Webinars
