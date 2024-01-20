@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio [IN PROGRESS]
 
 ## About Me
 I am an IT enthusiast with strong communication skills, adept at teamwork, and well-organized. My experience includes successfully releasing The Wizards game series across various platforms. As a detail-oriented and diligent individual, I focus on excellence in every aspect of my work. Currently, I am expanding my skills in the field of QA and actively seeking new challenges in the IT industry. I am ready and willing to contribute to projects that demand precision and professionalism.
