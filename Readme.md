@@ -67,10 +67,33 @@ Respect for colleagues is paramount in my professional life. I am exploring new 
 - [Test Scenario 2]
 
 ## My Projects
-### Project 1: [Project Name]
+### Project 1: [Warhammer Age of Sigmar: Tempestfall](https://store.steampowered.com/app/1337100/Warhammer_Age_of_Sigmar_Tempestfall/)
 - [Brief Description]
-- [Link to Project Repository]
+- Audio Technical
+Sounds Implementation
+Team leading
+Setup FMOD studio
+Coding via blueprint audio tools
 
-### Project 2: [Project Name]
+### Project 2: [The Wizards: Dark Times](https://store.steampowered.com/app/1103860/The_Wizards__Dark_Times_Brotherhood/)
 - [Brief Description]
-- [Link to Project Repository]
+- Tester, Sound Designer
+Testing and bug reports
+Sound creating
+Sounds Implementation
+Setup FMOD studio
+Coding via blueprint audio tools
+
+### Project 3: [The Wizards](https://store.steampowered.com/app/586950/The_Wizards__Enhanced_Edition/)
+- [Brief Description]
+- Tester, Gameplay Designer, Sound Designer
+Testing and bug reports
+Setup gameplay
+Sounds Implementation
+
+### Project 4: [Alice VR](https://store.steampowered.com/app/513320/ALICE_VR/)
+- [Brief Description]
+- Tester, Gameplay Designer, Sound Designer
+Testing and bug reports
+Setup gameplay
+Sounds Implementation
