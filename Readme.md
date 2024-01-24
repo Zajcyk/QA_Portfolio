@@ -11,7 +11,7 @@ Respect for colleagues is paramount in my professional life. I am exploring new 
 
 ## Tools
 - Jira, Trello
-- [Postman](https://www.postman.com/)
+- Postman
 - Github
 - Testrail , Qase
 - Bug Magnet - Exploratory testing assistant for Chrome and Firefox
