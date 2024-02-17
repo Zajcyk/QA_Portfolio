@@ -39,7 +39,9 @@ Respect for colleagues is paramount in my professional life. I am exploring new 
 
 
 ## Certificates
+- [QA Manual GoIT] (https://github.com/Zajcyk/QA_Portfolio/blob/main/Certificates/Przemys%C5%82aw_Ziaja_GoIT_QA_Manual.pdf)
 - [Game designer SKVOT](https://github.com/Zajcyk/QA_Portfolio/blob/main/Certificates/Przemys%C5%82aw-Ziaja_Game-Designer_2023-01-18_skvot%20ENG.pdf) -  [Supplement](https://github.com/Zajcyk/QA_Portfolio/blob/main/Certificates/Przemys%C5%82aw%20Ziaja%20ENG.png)
+  
 
 ## Courses
 - [Manual Teser GoIT](https://goit.global/pl/courses/qa/)
